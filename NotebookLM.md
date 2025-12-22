@@ -3,7 +3,8 @@
 [← Back to Repository](/README.md)
 
 ## Table of Contents
-- [Create Quiz based on Sources in Notebook](#create-quiz-based-on-sources-in-notebook)
+- [Create Quiz based on Sources in Notebook](#create-quiz-based-on-sources-in-
+- [Create a set of Flashcards](#create-a-set-of-flashcards)
 
 ## Create Quiz based on Sources in Notebook
 
@@ -27,3 +28,20 @@ C) [Option]
 D) [Option]
 
 Correct Answer: [Letter] – [Short Explanation]
+```
+
+## Create a set of Flashcards
+
+```text
+Create a set of high-quality flashcards for my [Exam Name/Course Title].
+
+# Instructions:
+
+* Front of Card: Use the specific questions found in the file [Question Source File].
+
+* Back of Card: Provide the corresponding answer from [Answer Key File].
+
+* Context: Refer to [Course Materials/Textbooks] only if necessary to clarify technical terms or expand on brevity.
+
+* Format: Present the output as a table with two columns: "Question" and "Answer".
+```
