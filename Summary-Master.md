@@ -1,4 +1,4 @@
-# Master Prompt Summaries
+# Summary Master
 
 [← Back to Repository](/README.md)
 
