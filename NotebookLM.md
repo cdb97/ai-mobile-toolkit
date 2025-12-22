@@ -6,8 +6,6 @@
 - [Create Quiz based on Sources in Notebook](#create-quiz-based-on-sources-in-notebook)
 - [Create a set of Flashcards](#create-a-set-of-flashcards)
 
----
-
 ## Create Quiz based on Sources in Notebook
 
 ```text
