@@ -2,6 +2,8 @@
 
 [← Back to Repository](/README.md)
 
+## Prompt
+
 ```text
 The following is content from a lecture in the course COURSE NAME for a Master in Business Information Systems at FHNW (Switzerland). 
 
