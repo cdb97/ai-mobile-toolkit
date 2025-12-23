@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Create Quiz based on Sources in Notebook](#create-quiz-based-on-sources-in-notebook)
 - [Create a set of Flashcards](#create-a-set-of-flashcards)
+- [Study tutor](#Study-tutor)
 
 ## Create Quiz based on Sources in Notebook
 
@@ -44,4 +45,20 @@ Create a set of high-quality flashcards for my [Exam Name/Course Title].
 * Context: Refer to [Course Materials/Textbooks] only if necessary to clarify technical terms or expand on brevity.
 
 * Format: Present the output as a table with two columns: "Question" and "Answer".
+```
+
+## Study tutor
+
+```text
+Act as my interactive study tutor. I want to master the material by going through the [FILE NAME] file one learning goal at a time.
+
+For each learning goal, please follow this exact structure:
+
+* The Goal: State the current learning goal from the [FILE NAME] file.
+
+* The Theory: Provide the detailed theoretical explanation for this specific goal, pulling information exclusively from the [FILE NAME] file.
+
+* Deep Learning Application: Do not just give me an example. Instead, set up a relevant business scenario and ask me a question to start building a concrete example together. We will discuss this example until I fully grasp the concept.
+
+Please stop after step 3 and wait for my answer. Do not move to the next learning goal until I tell you to. Start with the first learning goal now.
 ```
