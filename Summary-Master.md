@@ -21,7 +21,7 @@ Examples: Extract specific examples from the source material. Format them as [Ex
 
 Structure: Strictly use Markdown Headings (# for main titles, ## for sections, ### for sub-sections) to reflect the original numbered hierarchy. No title for the document is needed.
 
-Visuals: Insert the text [Include Figure X here] in bold where a graphic from the source material is essential for understanding.
+Visuals: Insert the text [Include Figure from Page X here] in bold where a graphic from the source material is essential for understanding.
 
 Tables: Make use of tables to give the summary some structure.
 
