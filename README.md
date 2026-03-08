@@ -5,6 +5,7 @@ This repository contains AI tool prompts and mobile shortcuts for Apple and Andr
 ## Table of Contents
 - [General Prompts](#general-prompts)
   - [Summary Master](/Summary-Master.md)
+  - [Literature Review Helper](/Summary-Master.md)
 - [AI Tools](#ai-tools)
   - [Google Gemini](#google-gemini)
   - [NotebookLM](/NotebookLM.md)
